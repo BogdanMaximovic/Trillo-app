@@ -1,4 +1,4 @@
-Trillo
+#Trillo
 
 What is this about?
 
@@ -12,4 +12,4 @@ Flexbox layout
 npm pacages
 BEM Methodology
 
-Live demo : 
+Live demo : https://bogdanmaximovic.github.io/Trillo-app/
